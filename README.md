@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Python projects.
 - 🌱 I’m currently learning Computer Science.
+
+
+[![EstherSchiff's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstherSchiff)](https://github.com/EstherSchiff/github-readme-stats)
