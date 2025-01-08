@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Python projects.
-- 🌱 I’m currently learning Computer Science.
+- 🔭 I’m currently working on a degree in Computer Science.
+- ⚡ I'm learning C#, Python, and more!
 
 ***I have experience in:***
 
