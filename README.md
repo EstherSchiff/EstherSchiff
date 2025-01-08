@@ -18,5 +18,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Python projects.
 - 🌱 I’m currently learning Computer Science.
 
+***I have experience in:***
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Image description" width="40" height="40">        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Image description" width="40" height="40"> 
+
 
 [![EstherSchiff's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstherSchiff)](https://github.com/EstherSchiff/github-readme-stats)
