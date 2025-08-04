@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a degree in Computer Science.
-- ⚡ I'm learning C#, Python, and more!
+- 🔭 I’m a recent graduate with a Bachelors in Computer Science.
+- ⚡ I've learned C#, Python, and more!
+- 🌱 I'm learning web development on my own!
 
 ***I have experience in:***
 
