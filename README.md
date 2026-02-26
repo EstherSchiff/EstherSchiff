@@ -1,23 +1,8 @@
 ## Hi there 👋
 
-<!--
-**EstherSchiff/EstherSchiff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer passionate about learning new things, staying at the edge of evolving technology, and building innovative software with collaborative teams.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🔭 I’m a recent graduate with a Bachelors in Computer Science.
-- ⚡ I've learned C#, Python, and more!
-- 🌱 I'm learning web development on my own!
+I currently work at <a href="https://3nom.com"/>3nom<a> and <a href="https://happypurim.com/">Happy Purim<a>!
 
 ***I have experience in:***
 
@@ -26,4 +11,3 @@ Here are some ideas to get you started:
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="40"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-[![EstherSchiff's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstherSchiff)](https://github.com/EstherSchiff/github-readme-stats)
